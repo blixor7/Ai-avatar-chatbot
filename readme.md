@@ -1,99 +1,124 @@
-<div>
- <a href="https://ibb.co/pLsZxbY"><img src="https://i.ibb.co/HHMYVB5/Dream-Shaper-v7-she-is-16-and-she-is-a-stylish-girl-in-Britain-3.jpg" alt="Dream-Shaper-v7-she-is-16-and-she-is-a-stylish-girl-in-Britain-3" border="0"></a>
-  <br>
-  <h1>🌟Yours Truly the AI Virtual Avatar Bot</h1>
-  <p>
-    💬 The Ultimate Companion!
-    <br>
-  </p>
-</div>
+# 🌟 Virtual AI Assistant
 
-## The Goal
-To create a free AI Chatbot with visual movement that will run on your local computer with minimal GPU requirement.
+A fully open-source **AI powered virtual companion** that combines chatbot intelligence, voice interaction, and visual avatar movement. Designed to run locally with minimal GPU requirements.
 
-## Complete Video Installation Guide
-[Video Link-1](https://youtu.be/aZDaESBFic4)
-[Video Link-2](https://youtu.be/xT4WvPg0wRs)
-## Steps for installation
+---
 
-- Make sure to install ffmpeg in your computer.
-- Install vtube studio.
-- Download the zip file.
-- Unzip it and rename Example env.txt to .env file using notepad.
-- Start Vtube Studio and toggle on "Start Api" from settings.
-- Double click to run the start.bat file.
-- Allow the plugin in Vtube studio.
-- In terminal, when Mic comes, press CTRL and then speak.
-   
-## Features
+## 🎯 Project Objective
 
-- Supports Oogbabooga
-- Supoorts betacharacter.ai
-- Supports Locall LLM running on Local Machine or Collab
-  
-## Requirements ✔️✔️
+To build a **lightweight AI chatbot with a virtual avatar** that:
 
-- Above Windows 7
-- [Python](https://apps.microsoft.com/detail/9PJPW5LDXLZ5?hl=en-us&gl=US)
-- [C++ Compiler](https://sourceforge.net/projects/mingw-w64/)
-- [Git](https://git-scm.com/)
-- Need help to Install FFmpeg? See this [video](https://www.youtube.com/watch?v=EyIIvctDhYc&t=252s).
-- Find the api key for https://beta.character.ai/ || Need help to find the API key, visit the [issue.](https://github.com/TumblerWarren/Waifu/issues/6).
-- [Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) for Visual Studio 2015, 2017 and 2019.
-- Install [VTube Studio](https://denchisoft.com/).
-- Find the API key for [elevenlabs](https://beta.elevenlabs.io/speech-synthesis).
+* Runs on your local machine
+* Requires minimal hardware resources
+* Supports multiple AI backends (local or online)
+* Provides both **chat and voice-based interaction**
 
-If you run into any problems, you can go to the following website to report [issues](https://github.com/TumblerWarren/Waifu/issues/new).
+---
 
-## TROUBLESHOOTING
-If you encounter any error or problem, please refer [here](https://github.com/TumblerWarren/Virtual_Avatar_ChatBot/blob/master/Docs/TroubleShooting.md) before pulling an ISSUE.
+## 📹 Installation Video Guides
 
-## DOCUMENTATION
-- Help for using [Voicevox](https://github.com/TumblerWarren/Waifu/blob/master/Docs/VoiceVox_Readme_Doc.md).
-- Help for using [Oogabooga Text Gen](https://github.com/TumblerWarren/Waifu/blob/master/Docs/OogaBooga%20Text%20Gen%20Help.md).
-- Help for using [Local LLM](https://github.com/TumblerWarren/LLM_Inference_System/blob/master/Documentation/LOCAL%20INSTALLATION%20GUIDE.md) or [Collab](https://github.com/TumblerWarren/LLM_Inference_System/blob/master/Documentation/COLLAB%20GUIDE.md)
-  
-##  🚧 Goals
-- Add Voicevox Functionality -- DONE ✅
-- Supports Oogabooga Text Gen -- DONE ✅
-- Supports [Local LLM and Collab LLM](https://github.com/TumblerWarren/LLM_Inference_System) inference.
-- Running the project without depending on beta.charecter.ai website, by runing llm model locally --  DONE ✅
-- Give the waifu an access to the internet -- PENDING ⏳
-- All many more.
+* [Guide 1](https://youtu.be/aZDaESBFic4)
+* [Guide 2](https://youtu.be/xT4WvPg0wRs)
 
+---
 
-## 🤝 Contributions
-AI Waifu Assistant is an open-source project, and we welcome any contributions from the community to make it even better! Here are some ways you can contribute:
+## ⚙️ Installation Steps
 
-👉 Bug Reporting: If you encounter any bugs while using the app, please report them in the issues section of the repository. Make sure to provide a clear description of the issue and steps to reproduce it.
+1. Install **ffmpeg** on your system.
+2. Install **VTube Studio**.
+3. Download the latest release `.zip`.
+4. Extract the archive and rename `Example env.txt` → `.env`.
+5. Launch VTube Studio and enable **API Access** from settings.
+6. Run `start.bat`.
+7. Grant the plugin permission in VTube Studio.
+8. Use **CTRL + Mic** in the terminal to activate speech input.
 
-🔨 Pull Requests: If you have a fix or improvement that you would like to contribute, you can create a pull request. 
+---
 
-📈 Feature Requests: We also welcome feature requests from the community. If you have an idea for a new feature or improvement, you can submit it in the issues section of the repository.
+## 🔑 Features
 
-## 👏 SUPPORT ME!
-If you really like the project please support me through [PayPal](https://paypal.me/RandomChanManga?country.x=IN&locale.x=en_GB).
+* Integration with **Oobabooga**
+* Support for **Character.ai (beta)**
+* Local or cloud-based **LLMs** (via Colab or on-device)
+* Real-time avatar interaction with speech & chat
 
-## 🎁 Credits
-I used the following projects as my reference. My heartful gratitude to these guys!
+---
 
-## 😇 THANKS FOR THE SUPPORT!
-- Alexander Lewis
+## 📋 System Requirements
 
-## 📝 REFERENCES:- 
-[desktop-waifu](https://github.com/AlizerUncaged/desktop-waifu) - Your ultimate companion!
+* Windows 7 or newer
+* [Python](https://apps.microsoft.com/detail/9PJPW5LDXLZ5?hl=en-us&gl=US)
+* [C++ Compiler (MinGW)](https://sourceforge.net/projects/mingw-w64/)
+* [Git](https://git-scm.com/)
+* [Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+* [VTube Studio](https://denchisoft.com/)
+* API keys for [Character.AI](https://beta.character.ai/) & [ElevenLabs](https://beta.elevenlabs.io/speech-synthesis)
+* [FFmpeg installation help](https://www.youtube.com/watch?v=EyIIvctDhYc&t=252s)
 
-[CharacterAI](https://github.com/kramcat/CharacterAI) - An unofficial API for Character AI for Python using Playwright.
+---
 
-[Whisper](https://github.com/openai/whisper) - Whisper is a general-purpose speech recognition model.
+## 🛠 Troubleshooting
 
-[PYVTS](https://github.com/Genteki/pyvts) - A python library for interacting with the VTube Studio API.
+* For errors, check the [Troubleshooting Guide](https://github.com/TumblerWarren/Virtual_Avatar_ChatBot/blob/master/Docs/TroubleShooting.md) before submitting an issue.
 
-[COQUI-AI](https://github.com/coqui-ai/TTS) - TTS is a library for advanced Text-to-Speech generation. 
+---
 
-[VOICEVOX](https://github.com/VOICEVOX/voicevox) - The Voicevox Engine
+## 📚 Documentation
 
-[VOICEVOX API](https://github.com/voicevox-client) - An unofficial API for python
+* [Voicevox Setup](https://github.com/TumblerWarren/Waifu/blob/master/Docs/VoiceVox_Readme_Doc.md)
+* [Oobabooga Text Generation Guide](https://github.com/TumblerWarren/Waifu/blob/master/Docs/OogaBooga%20Text%20Gen%20Help.md)
+* [Local/Colab LLM Setup](https://github.com/TumblerWarren/LLM_Inference_System)
 
-## LICENSE
-Falls under [The MIT License](https://github.com/TumblerWarren/Waifu/blob/master/Docs/LICENSE.md) (MIT) Copyright © 2023
+---
+
+## 🚧 Roadmap
+
+* ✅ Voicevox integration
+* ✅ Oobabooga text generation
+* ✅ Local & Colab LLM inference
+* ✅ Local-only execution without Character.AI
+* ⏳ Internet-enabled assistant
+* 🚀 Continuous improvements planned
+
+---
+
+## 🤝 Contributing
+
+We welcome community contributions!
+
+* 🐞 Report bugs via [Issues](https://github.com/TumblerWarren/Waifu/issues/new)
+* 🔨 Submit pull requests for fixes & improvements
+* 💡 Propose new features in the discussion board
+
+---
+
+## 💖 Support
+
+If you find this project useful, consider supporting via [PayPal](https://paypal.me/RandomChanManga?country.x=IN&locale.x=en_GB).
+
+---
+
+## 🙏 Credits & References
+
+This project builds upon the work of many open-source initiatives:
+
+* [desktop-waifu](https://github.com/AlizerUncaged/desktop-waifu)
+* [CharacterAI](https://github.com/kramcat/CharacterAI)
+* [OpenAI Whisper](https://github.com/openai/whisper)
+* [PYVTS](https://github.com/Genteki/pyvts)
+* [COQUI-AI TTS](https://github.com/coqui-ai/TTS)
+* [VOICEVOX](https://github.com/VOICEVOX/voicevox)
+
+Special thanks to **Alexander Lewis** for community contributions.
+
+---
+
+## 📜 License
+
+Licensed under [MIT](https://github.com/TumblerWarren/Waifu/blob/master/Docs/LICENSE.md).
+Copyright © 2023
+
+---
+
+⚡ Clean. Modular. Open-source. Your **AI Avatar Companion**.
+
