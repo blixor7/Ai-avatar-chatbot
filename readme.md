@@ -1,10 +1,10 @@
-# 🌟 Virtual AI Assistant
+#  Virtual AI Assistant
 
 A fully open-source **AI powered virtual companion** that combines chatbot intelligence, voice interaction, and visual avatar movement. Designed to run locally with minimal GPU requirements.
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 To build a **lightweight AI chatbot with a virtual avatar** that:
 
@@ -15,14 +15,14 @@ To build a **lightweight AI chatbot with a virtual avatar** that:
 
 ---
 
-## 📹 Installation Video Guides
+##  Installation Video Guides
 
 * [Guide 1](https://youtu.be/aZDaESBFic4)
 * [Guide 2](https://youtu.be/xT4WvPg0wRs)
 
 ---
 
-## ⚙️ Installation Steps
+##  Installation Steps
 
 1. Install **ffmpeg** on your system.
 2. Install **VTube Studio**.
@@ -35,7 +35,7 @@ To build a **lightweight AI chatbot with a virtual avatar** that:
 
 ---
 
-## 🔑 Features
+##  Features
 
 * Integration with **Oobabooga**
 * Support for **Character.ai (beta)**
@@ -44,7 +44,7 @@ To build a **lightweight AI chatbot with a virtual avatar** that:
 
 ---
 
-## 📋 System Requirements
+##  System Requirements
 
 * Windows 7 or newer
 * [Python](https://apps.microsoft.com/detail/9PJPW5LDXLZ5?hl=en-us&gl=US)
@@ -57,13 +57,13 @@ To build a **lightweight AI chatbot with a virtual avatar** that:
 
 ---
 
-## 🛠 Troubleshooting
+##  Troubleshooting
 
 * For errors, check the [Troubleshooting Guide](https://github.com/TumblerWarren/Virtual_Avatar_ChatBot/blob/master/Docs/TroubleShooting.md) before submitting an issue.
 
 ---
 
-## 📚 Documentation
+##  Documentation
 
 * [Voicevox Setup](https://github.com/TumblerWarren/Waifu/blob/master/Docs/VoiceVox_Readme_Doc.md)
 * [Oobabooga Text Generation Guide](https://github.com/TumblerWarren/Waifu/blob/master/Docs/OogaBooga%20Text%20Gen%20Help.md)
@@ -71,34 +71,34 @@ To build a **lightweight AI chatbot with a virtual avatar** that:
 
 ---
 
-## 🚧 Roadmap
+##  Roadmap
 
-* ✅ Voicevox integration
-* ✅ Oobabooga text generation
-* ✅ Local & Colab LLM inference
-* ✅ Local-only execution without Character.AI
-* ⏳ Internet-enabled assistant
-* 🚀 Continuous improvements planned
+*  Voicevox integration
+*  Oobabooga text generation
+*  Local & Colab LLM inference
+*  Local-only execution without Character.AI
+*  Internet-enabled assistant
+*  Continuous improvements planned
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome community contributions!
 
-* 🐞 Report bugs via [Issues](https://github.com/TumblerWarren/Waifu/issues/new)
-* 🔨 Submit pull requests for fixes & improvements
-* 💡 Propose new features in the discussion board
+*  Report bugs via [Issues](https://github.com/TumblerWarren/Waifu/issues/new)
+*  Submit pull requests for fixes & improvements
+*  Propose new features in the discussion board
 
 ---
 
-## 💖 Support
+##  Support
 
 If you find this project useful, consider supporting via [PayPal](https://paypal.me/RandomChanManga?country.x=IN&locale.x=en_GB).
 
 ---
 
-## 🙏 Credits & References
+##  Credits & References
 
 This project builds upon the work of many open-source initiatives:
 
@@ -113,12 +113,12 @@ Special thanks to **Alexander Lewis** for community contributions.
 
 ---
 
-## 📜 License
+##  License
 
 Licensed under [MIT](https://github.com/TumblerWarren/Waifu/blob/master/Docs/LICENSE.md).
 Copyright © 2023
 
 ---
 
-⚡ Clean. Modular. Open-source. Your **AI Avatar Companion**.
+ Clean. Modular. Open-source. Your **AI Avatar Companion**.
 
